@@ -330,7 +330,7 @@ These services can be joined with a single instruction, right now, with no human
 
 ---
 
-### 9. Search & Web Intelligence (15 services)
+### 9. Search & Web Intelligence (16 services)
 *LLM-optimized web search returning structured content tuned for context windows.*
 
 | Service | Tagline | Onboarding |
@@ -348,6 +348,7 @@ These services can be joined with a single instruction, right now, with no human
 | [SerpKite](https://serpkite.com) | The Google SERP API built for AI agents | Add MCP `https://api.serpkite.com/v1/mcp` (OAuth or `SERPKITE_API_KEY`) |
 | [datawebot](https://www.datawebot.com) ⭐ | The world's ecommerce. One MCP. | `Read https://mcp.datawebot.com/setup.md and follow the instructions.` |
 | [Keenable](https://keenable.ai) ⭐ | Independent Web Search API for AI | `Read https://docs.keenable.ai/llms.txt and follow the instructions.` |
+| [SpecStream](https://specstream.ai) ⭐ | The live web data engine for teams and agents | `Read https://specstream.ai/agents.md and follow the instructions.` |
 
 ---
 
